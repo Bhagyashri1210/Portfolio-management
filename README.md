@@ -1,2 +1,2 @@
 # Portfolio-management
-This is a Java code for Portfolio management which separates large data sets of different companies' portfolios and displays individually in a tabular format with the stock value in an ascending order.
+This is a Java code for Portfolio management which separates large data sets of different companies' portfolios and displays individually in a tabular format with the stock value in an ascending order. The code can be run in Java IDE with input as a string which has the company name, initials and the benchmark value as well as stock value of the company and the output will produce the string in a systematic format.
